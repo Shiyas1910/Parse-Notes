@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "449997255612",
+    "firebase_url": "https://parse-note-app.firebaseio.com",
+    "project_id": "parse-note-app",
+    "storage_bucket": "parse-note-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449997255612:android:866b1173fb77df69",
+        "android_client_info": {
+          "package_name": "com.example.mohamedshiyas.parsenoteapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "449997255612-9evf77e30lnqek0voljmb4s2evlrhtqj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mohamedshiyas.parsenoteapp",
+            "certificate_hash": "bb6fa96e3f92f8880f2dec9ffb8d4fea11909058"
+          }
+        },
+        {
+          "client_id": "449997255612-lvist1b1oltbf3ka7hmugh79v3mma6ae.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPJEsWYMhsgVswKclbBTs0r3TqHoLhyAc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "449997255612-lvist1b1oltbf3ka7hmugh79v3mma6ae.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
